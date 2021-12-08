@@ -24,10 +24,10 @@ The data can be found on the website: https://www.kaggle.com/c/inf554-2021/data.
 
 ## Run the model
 
-First, with the code in Part1_GTG.ipynb notebook you can see the data preprocessing of the data, feature extraction and feature selection. As a result this notebook creates two files, train_data_cleaned.csv and test_data_cleaned.csv, which will be later on used in the Part2_GTG.ipynb and Part3_GTG.ipynb.
+First, with the code in Part1_GTG.ipynb notebook you can run the data preprocessing of the data, feature extraction and feature selection. As a result this notebook creates two files, train_data_cleaned.csv and test_data_cleaned.csv, which will be used later in the Part2_GTG.ipynb and Part3_GTG.ipynb.
 
-Secondly, in the Part2_GTG.ipynb notebook we perform an analysis of the data and build baseline models for the simplest regressors to see the differences between them.
+In the Part2_GTG.ipynb notebook we perform an analysis of the data and build baseline models for the simplest regressors to see the differences between them.
 
-Finally, the Part3_GTG.ipynb notebook builds the model, trains it, and validates the results. This notebook uses already cleaned versions of the datasets, train_data_cleaned.csv and test_data_cleaned.csv, and after training performs a prediction.
+Finally, the Part3_GTG.ipynb notebook builds our neural network model, trains it, and validates the results. This notebook uses already cleaned versions of the datasets, train_data_cleaned.csv and test_data_cleaned.csv, and it performs a prediction to upload on kaggle.
 
 
