@@ -1,0 +1,13 @@
+eli5==0.11.0
+keras==2.7.0
+matplotlib==3.2.2
+networkx==2.6.3
+numpy==1.21.4
+pandas==1.1.5
+seaborn==0.11.2
+sklearn==1.0.1
+tensorflow==2.7.0
+tensorflow_hub==0.12.0
+tqdm==4.62.3
+xgboost==0.90
+sknetwork==0.24.0
