@@ -1,6 +1,6 @@
 # INF 554 Machine and Deep Learning
 # Data Challenge: H-index Prediction
-**Team Good to Go: **
+**Team: Good To Go**
 * Gurami KERETCHASHVILI
 * Guillaume BARTHE
 * Temur MALISHAVA 
