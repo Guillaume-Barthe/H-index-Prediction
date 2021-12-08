@@ -28,6 +28,6 @@ First, with the code in Part1_GTG.ipynb notebook you can see the data preprocess
 
 Secondly, in the Part2_GTG.ipynb notebook we perform an analysis of the data and build baseline models for the simplest regressors to see the differences between them.
 
-Finally, if you want to save time, our suggestion would be to skip to the Part3_GTG.ipynb notebook directly where we build the model, train it, and validate the results. This notebook uses already cleaned versions of the datasets, train_data_cleaned.csv and test_data_cleaned.csv, and after training performs a prediction.
+Finally, the Part3_GTG.ipynb notebook builds the model, trains it, and validates the results. This notebook uses already cleaned versions of the datasets, train_data_cleaned.csv and test_data_cleaned.csv, and after training performs a prediction.
 
 
