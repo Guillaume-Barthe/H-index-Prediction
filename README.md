@@ -1,5 +1,5 @@
-# INF 554 Machine and Deep Learning
-# Data Challenge: H-index Prediction
+# INF 554 - Machine and Deep Learning
+# Kaggle Data Challenge: H-index Prediction
 **Team: Good To Go**
 * Gurami KERETCHASHVILI
 * Guillaume BARTHE
