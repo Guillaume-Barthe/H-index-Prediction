@@ -5,6 +5,10 @@
 * Guillaume BARTHE
 * Temur MALISHAVA 
 
+# Report 
+
+Feel free to read report.pdf to have more details about this project
+
 
 # Description
 The goal of this data challenge is to study and apply machine learning/artificial intelligence techniques to a real-world regression problem. In this regression problem, each sample corresponds to a researcher (i. e., an author of research papers), and the goal is to build a model that can predict accurately the h-index of each author.
